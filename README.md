@@ -7,3 +7,7 @@ This project was given to me in my MAT-303 course which is Applied Statistics II
 The objective is to create a multiple regression model for the mtcars data set, using miles per gallon as the dependent variable, and rear axle ratio and horsepower as the independent variables.
 
 ## Data set
+[car data set](https://github.com/MichaelArellanox/Fuel-Economy/blob/main/mtcars.csv)
+
+## R Scripts
+[Scripts](https://github.com/MichaelArellanox/Fuel-Economy/blob/main/Project5.ipynb)

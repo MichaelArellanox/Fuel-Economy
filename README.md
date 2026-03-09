@@ -11,3 +11,6 @@ The objective is to create a multiple regression model for the mtcars data set, 
 
 ## R Scripts
 [Scripts](https://github.com/MichaelArellanox/Fuel-Economy/blob/main/Project5.ipynb)
+
+## Analysis Report
+[Report](https://github.com/MichaelArellanox/Fuel-Economy/blob/main/ProblemSetReport1.docx)
